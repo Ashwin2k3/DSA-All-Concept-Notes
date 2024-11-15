@@ -1,7 +1,24 @@
 # Code for The Algorithms
 
 Here’s the C++ code for the requested algorithms. These implementations are concise and efficient:
-
+* [<strong>1. Kadane’s Algorithm (Maximum Subarray Sum)</strong>](#1-kadanes-algorithm-maximum-subarray-sum)
+* [<strong>2. Two-pointer Technique</strong>](#2-two-pointer-technique)
+* [<strong>3. Sliding Window Algorithm</strong>](#3-sliding-window-algorithm)
+* [<strong>4. Dutch National Flag Algorithm</strong>](#4-dutch-national-flag-algorithm)
+* [<strong>5. Binary Search (First and Last Occurrence)</strong>](#5-binary-search-first-and-last-occurrence)
+* [<strong>6. Merge Intervals</strong>](#6-merge-intervals)
+* [<strong>7. Prefix Sum Array</strong>](#7-prefix-sum-array)
+* [<strong>8. Majority Element (Moore’s Voting Algorithm)</strong>](#8-majority-element-moores-voting-algorithm)
+* [<strong>9. Find Missing Number (XOR Approach)</strong>](#9-find-missing-number-xor-approach)
+* [<strong>10. Find Duplicates (Floyd’s Tortoise and Hare)</strong>](#10-find-duplicates-floyds-tortoise-and-hare)
+* [<strong>11. Trapping Rainwater Problem</strong>](#11-trapping-rainwater-problem)
+* [<strong>12. Rearrange Array Alternating Positive and Negative Numbers</strong>](#12-rearrange-array-alternating-positive-and-negative-numbers)
+* [<strong>13. Longest Consecutive Subsequence</strong>](#13-longest-consecutive-subsequence)
+* [<strong>14. Subarray with Given Sum</strong>](#14-subarray-with-given-sum)
+* [<strong>15. Intersection of Two Arrays</strong>](#15-intersection-of-two-arrays)
+* [<strong>16. Find All Pairs with a Given Sum</strong>](#16-find-all-pairs-with-a-given-sum)
+* [<strong>17. Count Inversions in an Array</strong>](#17-count-inversions-in-an-array)
+* [<strong>18. Find the Kth Largest Element</strong>](#18-find-the-kth-largest-element)
 ---
 
 ### **1. Kadane’s Algorithm (Maximum Subarray Sum)**
