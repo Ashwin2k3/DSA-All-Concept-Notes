@@ -1,7 +1,22 @@
 # Important Algorithms of Strings
 
 Here are the most important and commonly asked string algorithms in interviews, along with a brief description of each:
-
+* [<strong>1. String Matching Algorithms</strong>](#1-string-matching-algorithms)
+* [<strong>2. Palindrome Related Algorithms</strong>](#2-palindrome-related-algorithms)
+* [<strong>3. Anagram Related Algorithms</strong>](#3-anagram-related-algorithms)
+* [<strong>4. String Transformation</strong>](#4-string-transformation)
+* [<strong>5. Suffix Tree and Suffix Array</strong>](#5-suffix-tree-and-suffix-array)
+* [<strong>6. String Hashing</strong>](#6-string-hashing)
+* [<strong>7. Regular Expressions and Wildcard Matching</strong>](#7-regular-expressions-and-wildcard-matching)
+* [<strong>8. String Compression</strong>](#8-string-compression)
+* [<strong>9. Substring Search</strong>](#9-substring-search)
+* [<strong>10. Binary Search on Strings</strong>](#10-binary-search-on-strings)
+* [<strong>11. String Sliding Window</strong>](#11-string-sliding-window)
+* [<strong>12. String Parsing and Tokenization</strong>](#12-string-parsing-and-tokenization)
+* [<strong>13. Z-Algorithm</strong>](#13-z-algorithm)
+* [<strong>14. Manacher’s Algorithm</strong>](#14-manachers-algorithm)
+* [<strong>15. Bit Manipulation with Strings</strong>](#15-bit-manipulation-with-strings)
+* [<strong>Common Problems Based on String Algorithms</strong>](#common-problems-based-on-string-algorithms)
 ### **1. String Matching Algorithms**
 
 - **Naive String Matching**: A simple brute force algorithm for searching a pattern in a string by checking every substring of the given string.
