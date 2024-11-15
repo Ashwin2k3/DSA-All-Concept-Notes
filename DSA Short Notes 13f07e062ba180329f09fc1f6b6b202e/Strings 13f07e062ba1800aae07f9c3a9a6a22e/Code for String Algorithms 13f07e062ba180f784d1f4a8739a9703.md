@@ -1,7 +1,36 @@
 # Code for String Algorithms
 
 Here are implementations for some of the key string algorithms commonly asked in interviews:
-
+* [1. <strong>Naive String Matching Algorithm</strong>](#1-naive-string-matching-algorithm)
+* [2. <strong>Knuth-Morris-Pratt (KMP) Algorithm</strong>](#2-knuth-morris-pratt-kmp-algorithm)
+* [3. <strong>Longest Palindromic Substring (Expanding Around Center)</strong>](#3-longest-palindromic-substring-expanding-around-center)
+* [4. <strong>Longest Common Subsequence (LCS)</strong>](#4-longest-common-subsequence-lcs)
+* [5. <strong>Edit Distance (Levenshtein Distance)</strong>](#5-edit-distance-levenshtein-distance)
+* [6. <strong>Check if Two Strings are Anagrams</strong>](#6-check-if-two-strings-are-anagrams)
+* [7. <strong>Find All Anagrams in a String</strong>](#7-find-all-anagrams-in-a-string)
+* [8. <strong>Substring Search using Rabin-Karp Algorithm</strong>](#8-substring-search-using-rabin-karp-algorithm)
+* [9. <strong>Z-Algorithm</strong>](#9-z-algorithm)
+* [10. <strong>String Compression (Run-Length Encoding)</strong>](#10-string-compression-run-length-encoding)
+* [11. <strong>Find the Longest Common Prefix</strong>](#11-find-the-longest-common-prefix)
+* [12. <strong>String Reverse Words (Reverse each word in the string)</strong>](#12-string-reverse-words-reverse-each-word-in-the-string)
+* [13. <strong>Check if a String is a Valid Parentheses String</strong>](#13-check-if-a-string-is-a-valid-parentheses-string)
+* [14. <strong>Find the Longest Substring Without Repeating Characters</strong>](#14-find-the-longest-substring-without-repeating-characters)
+* [15. <strong>Palindrome Partitioning</strong>](#15-palindrome-partitioning)
+* [16. <strong>Anagram Check</strong>](#16-anagram-check)
+* [17. <strong>Find All Permutations of a String</strong>](#17-find-all-permutations-of-a-string)
+* [18. <strong>Find Substrings of a String</strong>](#18-find-substrings-of-a-string)
+* [19. <strong>Longest Palindromic Substring</strong>](#19-longest-palindromic-substring)
+* [20. <strong>Count and Say Sequence</strong>](#20-count-and-say-sequence)
+* [21. <strong>Wildcard Matching</strong>](#21-wildcard-matching)
+* [22. <strong>KMP (Knuth-Morris-Pratt) String Matching Algorithm</strong>](#22-kmp-knuth-morris-pratt-string-matching-algorithm)
+* [23. <strong>Minimum Window Substring</strong>](#23-minimum-window-substring)
+* [24. <strong>Z-Algorithm (Pattern Matching)</strong>](#24-z-algorithm-pattern-matching)
+* [25. <strong>Rabin-Karp String Matching Algorithm</strong>](#25-rabin-karp-string-matching-algorithm)
+* [26. <strong>Boyer-Moore String Matching Algorithm</strong>](#26-boyer-moore-string-matching-algorithm)
+* [27. <strong>Longest Common Prefix (LCP)</strong>](#27-longest-common-prefix-lcp)
+* [28. <strong>Substring Search (Naive)</strong>](#28-substring-search-naive)
+* [29. <strong>Find All Occurrences of a Substring</strong>](#29-find-all-occurrences-of-a-substring)
+* [30. <strong>Levenshtein Distance (Edit Distance)</strong>](#30-levenshtein-distance-edit-distance)
 ### 1. **Naive String Matching Algorithm**
 
 ```cpp
