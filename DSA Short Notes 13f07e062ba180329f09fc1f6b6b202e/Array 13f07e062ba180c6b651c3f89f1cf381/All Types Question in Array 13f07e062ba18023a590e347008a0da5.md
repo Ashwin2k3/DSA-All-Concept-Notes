@@ -2,6 +2,16 @@
 
 Array-based questions are diverse and can test various concepts ranging from basic operations to advanced problem-solving. Here’s a comprehensive list of concepts around which array-related questions can be framed:
 
+* [<strong>Basic Operations</strong>](#basic-operations)
+* [<strong>Frequency and Counting</strong>](#frequency-and-counting)
+* [<strong>Sorting and Rearrangement</strong>](#sorting-and-rearrangement)
+* [<strong>Searching and Pair Problems</strong>](#searching-and-pair-problems)
+* [<strong>Subarrays and Subsets</strong>](#subarrays-and-subsets)
+* [<strong>Mathematical and Statistical Concepts</strong>](#mathematical-and-statistical-concepts)
+* [<strong>Special Arrays</strong>](#special-arrays)
+* [<strong>Optimization Problems</strong>](#optimization-problems)
+* [<strong>Miscellaneous Problems</strong>](#miscellaneous-problems)
+* [<strong>Real-world Applications</strong>](#real-world-applications)
 ---
 
 ### **Basic Operations**
